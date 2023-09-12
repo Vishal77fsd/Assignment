@@ -1,0 +1,26 @@
+.section_4 {
+  background-color: #f9f6ef;
+  height: 70vh;
+  display: flex;
+  flex-direction: row;
+}
+
+.section_4_left {
+  margin: auto;
+  width: 40%;
+  color: black;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+  padding: 100px;
+}
+
+.section_4_right {
+  width: 40%;
+  background-image: url("https://nack.life/cdn/shop/files/meet-our-health-experts-at-nack-india_x600.webp?v=1688669553");
+  height: 100%;
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin: auto;
+}

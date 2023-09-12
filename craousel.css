@@ -1,0 +1,40 @@
+#img_craousel_container {
+  /* border: 2px solid blue; */
+  position: absolute;
+  width: 100%;
+  top: 0;
+  height: 80vh;
+  z-index: -1;
+}
+
+#img_craousel_1 {
+  background: url("https://nack.life/cdn/shop/files/Carousel_Web_Banner_img-01_1280x.jpg?v=1684483241");
+  position: absolute;
+  width: 100%;
+  top: 0;
+  height: 80vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  gap: 20px;
+}
+
+.slider_title {
+  font-size: 2.5rem;
+}
+
+.slider_text {
+  font-size: 14px;
+}
+
+.banner__buttons {
+  color: white;
+  padding: 10px 40px;
+  background-color: black;
+  display: inline-block;
+  margin-top: 50px;
+  cursor: pointer;
+}

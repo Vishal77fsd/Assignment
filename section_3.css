@@ -1,0 +1,23 @@
+.section_3 {
+  width: 70vw;
+  margin: auto;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+}
+
+#section_3_img {
+  width: 50%;
+  background-image: url("https://nack.life/cdn/shop/files/nack-astaxanthin-homepage.webp?v=1688669247");
+  background-size: contain;
+}
+
+#section_3_right {
+  color: black;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 20px;
+  padding: 50px;
+}

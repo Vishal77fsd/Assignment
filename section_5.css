@@ -1,0 +1,12 @@
+.section_5 {
+  width: 80vw;
+  margin: auto;
+  color: black;
+  padding: 50px;
+}
+.section_5 > p {
+  margin: 20px 0;
+  width: 70%;
+  font-size: 14px;
+  line-height: 26px;
+}

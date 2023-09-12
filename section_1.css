@@ -1,0 +1,49 @@
+.section_1 {
+  width: 70vw;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+  overflow: hidden;
+}
+#section_1_left {
+  width: 50%;
+  display: flex;
+  color: black;
+  flex-direction: column;
+  justify-content: center;
+  gap: 20px;
+}
+#section_1_img {
+  width: 50%;
+  background-image: url("https://nack.life/cdn/shop/files/EAA_Home_page_500x.jpg?v=1692272449");
+  background-size: cover;
+}
+.read_btn {
+  display: inline-block;
+  padding: 10px 30px;
+  background-color: #face93;
+  font-weight: bold;
+  border-radius: 2px;
+  font-size: 14px;
+  cursor: pointer;
+}
+.read_btn:hover {
+  background-color: black;
+  color: #face93;
+}
+#section_2_img {
+  width: 50%;
+  background-image: url("https://nack.life/cdn/shop/files/Home_Page_Image-2.jpg?v=1682403841");
+  background-size: cover;
+}
+
+#section_2_right {
+  width: 40%;
+  display: flex;
+  color: black;
+  flex-direction: column;
+  justify-content: center;
+  gap: 30px;
+  padding-left: 50px;
+}

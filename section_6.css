@@ -1,0 +1,63 @@
+.section_6 {
+  background-color: #f9f6ef;
+  color: black;
+  width: 100%;
+}
+
+.section_6 > h1 {
+  text-align: center;
+}
+
+.section_6_option {
+  height: 300px;
+  width: 100%;
+  overflow: hidden;
+  background-image: url("https://nack.life/cdn/shop/articles/desktopcover_1000x.jpg?v=1690803407");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.section_6_option_container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+.section_6_op {
+  width: 30%;
+}
+
+.section_6_op > div > h1 {
+  margin-top: 20px;
+  font-size: 1rem;
+}
+.section_6_op > div > p {
+  margin-top: 20px;
+  font-size: 13px;
+}
+.section_6_op > div > div {
+  margin-top: 20px;
+  font-weight: bold;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.section_6_option_img_3 {
+  height: 300px;
+  width: 100%;
+  overflow: hidden;
+  background-image: url("https://nack.life/cdn/shop/articles/yoga_day_journal-desktop_1000x.jpg?v=1687346234");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.section_6_option_img_2 {
+  height: 300px;
+  width: 100%;
+  overflow: hidden;
+  background-image: url("https://nack.life/cdn/shop/articles/Passion-for-Progress-Desktop_1000x.jpg?v=1685529026");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
